@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.1 (unreleased)
+----------------
+
+ - Fixed compatibility with Plone 2.0.x
+
 1.0 (unreleased)
 ----------------
 

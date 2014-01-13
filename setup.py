@@ -5,7 +5,7 @@ import os
 long_description = open(os.path.join('Products', 'PloneHotfix20131210', "README.txt")).read() + "\n" + \
                    open(os.path.join("docs", "HISTORY.txt")).read()
 
-version = '1.0'
+version = '1.1-qg'
 
 setup(name='Products.PloneHotfix20131210',
       version=version,
